@@ -39,7 +39,6 @@ pip install -r requirements.txt
 
 3. Upload a facial image and view the detected emotion on the same page.
 
----
 
 ## 🔍 How It Works
 
@@ -52,6 +51,5 @@ pip install -r requirements.txt
 ## 🙌 Contribution & Learning
 This project showcases the integration of deep learning and web development. Feel free to explore, modify, or enhance the project further!
 
----
 
 Let me know if you want this written into a downloadable `README.md` file!
