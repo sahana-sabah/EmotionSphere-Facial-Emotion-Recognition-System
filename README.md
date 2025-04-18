@@ -18,27 +18,6 @@
 ## 📂 Uploaded Image Storage
 All uploaded images are stored temporarily in the `uploads/` folder (excluded via `.gitignore`) for detection and display purposes.
 
-## ⚙️ Installation
-
-Install dependencies using:
-```bash
-pip install -r requirements.txt
-
-## 🚀 How to Run
-
-
-1. Run the Flask application:
-   ```
-   python src/app.py
-   ```
-
-2. Open your browser and go to:
-   ```
-   http://127.0.0.1:5000/
-   ```
-
-3. Upload a facial image and view the detected emotion on the same page.
-
 
 ## 🔍 How It Works
 
@@ -46,7 +25,6 @@ pip install -r requirements.txt
 - It is then passed through a trained CNN model to classify the emotion.
 - The result and uploaded image are displayed back on the web interface for the user.
 
----
 
 ## 🙌 Contribution & Learning
 This project showcases the integration of deep learning and web development. Feel free to explore, modify, or enhance the project further!
